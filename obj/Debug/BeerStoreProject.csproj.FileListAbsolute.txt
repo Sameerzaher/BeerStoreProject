@@ -1,0 +1,96 @@
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Form1.resources
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Form1.resources
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+F:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Form1.resources
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+E:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Form1.resources
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+D:/Semester B/C# sem. B/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+C:/Users/Sameer Zaher/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/itextsharp.xml
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Form1.resources
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+C:/Users/Ameer/Desktop/BeerStoreProject/BeerStoreProject/bin/Debug/itextsharp.xml
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/itextsharp.xml
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.Form1.resources
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+C:/Users/Sameer Zaher/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/bin/Debug/itextsharp.xml
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+C:/Users/ExecutionerHD/Desktop/BeerStoreProjectAmeer/BeerStoreProject/obj/Debug/BeerStoreProject.MainFormfrm.resources
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/itextsharp.xml
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.csprojResolveAssemblyReference.cache
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.MainFormfrm.resources
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+C:/Users/Sameer Zaher/Desktop/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.Cache
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.csprojAssemblyReference.cache
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.MainFormfrm.resources
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.Properties.Resources.resources
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.GenerateResource.cache
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.CoreCompileInputs.cache
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.exe
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.pdb
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/BeerStoreProject.exe.config
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/BeerStoreProject.exe
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/BeerStoreProject.pdb
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/bin/Debug/itextsharp.xml
+/Volumes/Sameer 1TB/הנדסת תוכנה/Semester D/C#/C#Project AmeerKassis,SameerZaher,YuriMalamoud/BeerStoreProject/obj/Debug/BeerStoreProject.csproj.CopyComplete
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\bin\Debug\BeerStoreProject.exe.config
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\obj\Debug\BeerStoreProject.exe
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\obj\Debug\BeerStoreProject.pdb
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\obj\Debug\BeerStoreProject.csprojResolveAssemblyReference.cache
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\obj\Debug\BeerStoreProject.MainFormfrm.resources
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\obj\Debug\BeerStoreProject.Properties.Resources.resources
+F:\הנדסת תוכנה\Semester D\C#\C#Project AmeerKassis,SameerZaher,YuriMalamoud\BeerStoreProject\obj\Debug\BeerStoreProject.csproj.GenerateResource.Cache
